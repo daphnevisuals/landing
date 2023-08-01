@@ -1,0 +1,29 @@
+footer {
+  background-color: #2c2b2b;
+  padding: 60px;
+}
+
+footer .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+footer p {
+  color: #6b6c6c;
+}
+
+footer .socials {
+  margin-bottom: 20px;
+}
+footer a {
+  color: rgb(126, 210, 153);
+  font-size: 40px;
+  padding: 0 10px;
+}
+
+footer .copyright i {
+  color: red;
+}
